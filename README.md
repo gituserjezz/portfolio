@@ -22,10 +22,10 @@ This Portfolio contains all my skills, certificates, Data Science and Data Analy
 ### Projects:
 1)	Bulldozer Price Prediction Project
 2)	Heart Disease Prediction Project
-3)	SQL Task Solver
+3)	[SQL Problem Book](https://github.com/gituserjezz/sql_problem_book/blob/main/README.md)
 4)	Excel Dashboards 
 ---
 ### Contacts:
-* Email:
+* Email: iladonskih750@gmail.com
 * LinkedIN: 
-* Telegram: 
+* Telegram: @ildkh
