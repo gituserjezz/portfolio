@@ -21,7 +21,7 @@ This Portfolio contains all my skills, certificates, Data Science and Data Analy
 ---
 ### Projects:
 1)	:tractor: [Bulldozer Price Prediction Project](https://github.com/gituserjezz/portfolio/blob/main/bulldozer-price-regression.ipynb)
-2)	:anatomical_heart: Heart Disease Prediction Project
+2)	:anatomical_heart: [Heart Disease Prediction Project](https://github.com/gituserjezz/portfolio/blob/main/full-hd-classification.ipynb)
 3)	:book: [SQL Problem Book](https://github.com/gituserjezz/sql_problem_book/blob/main/README.md)
 4)	:chart_with_upwards_trend: Excel Dashboards 
 ---
