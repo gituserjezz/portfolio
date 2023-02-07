@@ -1,6 +1,7 @@
 # Data Science Portfolio
 
 This Portfolio contains all my skills, certificates, Data Science and Data Analysis projects I have done.
+You can also check my [CV](https://github.com/gituserjezz/portfolio/blob/main/CV.pdf) 
 ---
 ### Courses:
 1)	Complete Machine Learning & Data Science Bootcamp ([Udemy](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)): 
@@ -23,7 +24,7 @@ This Portfolio contains all my skills, certificates, Data Science and Data Analy
     * Creating dashboards
     * Interaction with tables 
 4)	Git
-5)  Linux
+5) Linux
 6)	English (B2 – Upper Intermediate)
 ---
 ### Projects:
@@ -39,4 +40,4 @@ This Portfolio contains all my skills, certificates, Data Science and Data Analy
 ---
 ### Contacts:
 * Email: iladonskih750@gmail.com
-* Telegram: @ildkh
+* Telegram: @ildkh (preferably)
