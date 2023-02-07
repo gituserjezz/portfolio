@@ -34,7 +34,7 @@ This Portfolio contains all my skills, certificates, Data Science and Data Analy
 
 3)	:book: [SQL Problem Book](https://github.com/gituserjezz/sql_problem_book/blob/main/README.md)
       * Contains solutions on the most interesting SQL tasks I've faced with 
-4)	:chart_with_upwards_trend: Excel Dashboards 
+4)	:chart_with_upwards_trend: [Excel Dashboards](https://github.com/gituserjezz/dashboards)
       * Contains my study dashboard projects
 ---
 ### Contacts:
